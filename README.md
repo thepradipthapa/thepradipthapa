@@ -1,7 +1,11 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Namaste, I'm Pradip Thapa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3 align="center">I am a self taught programmer with a great passion in learning, exploring and development that's why I spend my free time on learning something new & developing projects.</h3>
+<p lign="center">I am a self taught programmer with a great passion in learning, exploring and development new thing. I also love to keep updated with latest technologies.<p
+
+<p lign="center">In the internet I am know by the name CodeWithPradip. I speak python and javascript primarily, but can communicate in c , c++, php too. I am strongly enthusiastic about Software Engineering and Data Science.<p
+    
+<p lign="center">Currently, I am studying computer engineering in kohalpur, Nepal. I am flexible and quick learner. I like share my knowledge, experience, & problems with solution I found that's why I'm into YouTube, where I have a channel Code With Pradip.<p
 
 
 ## 🙋‍♂️ About Me
