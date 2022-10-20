@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **[pradipthapaofficial@gmail.com](https://gmail.com)**
+- 📫 How to reach me **[iamdeveloperpradip@gmail.com](https://gmail.com)**
 
 - ⚡ Fun fact **I spend almost 2 to 3 hours listening songs & Watching Movie everyday.**
 
