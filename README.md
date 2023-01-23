@@ -35,6 +35,11 @@
     <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/> </a>
     <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
     <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
+    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/docker.png"/> </a>
+    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png"/> </a>
+    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/office/48/react.png"/> </a>
+    
+    
 
 </p>
 
