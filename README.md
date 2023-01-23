@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **My Own Project.**
 
-- 🌱 I’m currently learning **More About Django.**
+- 🌱 I’m currently learning **Django Rest Framework.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
