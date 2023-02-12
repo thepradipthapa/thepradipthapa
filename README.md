@@ -1,9 +1,9 @@
 <h1 align="center">Namaste, I'm Pradip Thapa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A Full Stack Developer From Nepal </h3>
 
-<p align="center">I am a self taught programmer with a great passion in learning, exploring and development new thing. I also love to keep updated with latest technologies.<p
+<p align="center">I I am a self-taught Full Stack Developer with a great passion in learning, exploring, and developing new things. My goal is to continue developing my skills and contributing to projects that make a positive impact.<p
 
-<p align="center">In the internet I am know by the name CodeWithPradip. I speak python and javascript primarily, but can communicate in c , c++, php too. I am strongly enthusiastic about Software Engineering and Data Science.<p
+<p align="center">On the internet, I am known by the Name CodeWithPradip. I speak Python and Javascript primarily. I also love to keep updated with the latest technologies.<p
 
 <a href="#">
  <img width="400" height="auto" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="175px"/>
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **[iamdeveloperpradip@gmail.com](https://gmail.com)**
 
-- ⚡ Fun fact **I spend almost 2 to 3 hours listening songs & Watching Movie everyday.**
+- ⚡ Fun fact **I spend almost 1 to 32 hours listening songs & Watching Movie everyday.**
 
 <br/>
 
@@ -45,10 +45,7 @@
 <h2>🔗 Connect With Me</h2>
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/codewithpradip/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=sociale&logo=LinkedIn&labelColor=blue"/></a> <a href = "https://www.youtube.com/codewithpradip"><img src="https://img.shields.io/badge/YouTube-FF0000?style=sociale&logo=YouTube&labelColor=FF0000"/></a>
-<a href = "https://www.instagram.com/codewithpradip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=sociale&logo=Instagram&logoColor=white&labelColor=E4405F"/></a>
-<a href = "https://twitter.com/codewithpradip"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=sociale&logo=Twitter&logoColor=white&labelColor=1DA1F2"/></a>
+<a href = "https://www.linkedin.com/in/codewithpradip/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&labelColor=blue"/></a> <a href = "https://www.youtube.com/codewithpradip"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&labelColor=FF0000"/></a>
+<a href = "https://www.instagram.com/codewithpradip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F"/></a>
+<a href = "https://twitter.com/codewithpradip"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2"/></a>
 </p>
-
-<br/>
-
