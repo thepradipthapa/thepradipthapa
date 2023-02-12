@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#">
+ <img width="400" height="auto" align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" height="175px"/>
+</a>
 
 <h1 align="center">Namaste, I'm Pradip Thapa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <p lign="center">I am a self taught programmer with a great passion in learning, exploring and development new thing. I also love to keep updated with latest technologies.<p
@@ -34,19 +36,18 @@
 | **Cloud**|![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)|
 <br/>
 
-<h2>Connect with me:</h2>
+<h2>🔗 Connect with me:</h2>
 
-<p align="center">
-<a href = "https://www.linkedin.com/in/codewithpradip/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/codewithpradip"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/codewithpradip/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/codewithpradip"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<p align="left">
+<a href = "https://www.linkedin.com/in/codewithpradip/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=sociale&logo=LinkedIn&labelColor=blue"/></a> <a href = "https://www.youtube.com/codewithpradip"><img src="https://img.shields.io/badge/YouTube-FF0000?style=sociale&logo=YouTube&labelColor=FF0000"/></a>
+<a href = "https://www.instagram.com/codewithpradip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=sociale&logo=Instagram&logoColor=white&labelColor=E4405F"/></a>
+<a href = "https://twitter.com/codewithpradip"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=sociale&logo=Twitter&logoColor=white&labelColor=1DA1F2"/></a>
 </p>
 
 <br/>
 
 <h2> ❤ Views and Followers</h2>
-<p align="center">
+<p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=codewithpradip"></a>
 <a href="https://github.com/codewithpradip?tab=followers"><img src="https://img.shields.io/github/followers/codewithpradip?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
