@@ -1,7 +1,7 @@
 <h1 align="center">Namaste, I'm Pradip Thapa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">A Full Stack Developer From Nepal </h3>
 
-<p align="center">I I am a self-taught Full Stack Developer with a great passion in learning, exploring, and developing new things. My goal is to continue developing my skills and contributing to projects that make a positive impact.<p
+<p align="center">I am a self-taught Full Stack Developer with a great passion in learning, exploring, and developing new things. My goal is to continue developing my skills and contributing to projects that make a positive impact.<p
 
 <p align="center">On the internet, I am known by the Name CodeWithPradip. I speak Python and Javascript primarily. I also love to keep updated with the latest technologies.<p
 
