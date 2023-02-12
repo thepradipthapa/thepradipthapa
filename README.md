@@ -1,20 +1,26 @@
+<h1 align="center">Namaste, I'm Pradip Thapa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3 align="center">A Full Stack Developer From Nepal </h3>
+
+<p align="center">I am a self taught programmer with a great passion in learning, exploring and development new thing. I also love to keep updated with latest technologies.<p
+
+<p align="center">In the internet I am know by the name CodeWithPradip. I speak python and javascript primarily, but can communicate in c , c++, php too. I am strongly enthusiastic about Software Engineering and Data Science.<p
+
 <a href="#">
- <img width="400" height="auto" align="right" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif" height="175px"/>
+ <img width="400" height="auto" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="175px"/>
 </a>
 
-<h1 align="center">Namaste, I'm Pradip Thapa <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<p lign="center">I am a self taught programmer with a great passion in learning, exploring and development new thing. I also love to keep updated with latest technologies.<p
-
-<p lign="center">In the internet I am know by the name CodeWithPradip. I speak python and javascript primarily, but can communicate in c , c++, php too. I am strongly enthusiastic about Software Engineering and Data Science.<p
-
+<p align="left"> <a href="https://twitter.com/codewithpradip" target="blank"><img src="https://img.shields.io/twitter/follow/codewithpradip?logo=twitter&style=for-the-badge" alt="codewithpradip" /></a></p>
+<p>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=codewithpradip"></a> <a href="https://github.com/codewithpradip?tab=followers"><img src="https://img.shields.io/github/followers/codewithpradip?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **My Own Project.**
 
-- 🌱 I’m currently learning **Django Rest Framework.**
+- 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to Job on **Python Developer**
 
 - 📫 How to reach me **[iamdeveloperpradip@gmail.com](https://gmail.com)**
 
@@ -23,7 +29,7 @@
 <br/>
 
 
-<h2>🚀 Languages and Tools:</h2>
+<h2>🚀 Languages and Tools</h2>
 
 
 | | |
@@ -36,7 +42,7 @@
 | **Cloud**|![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)|
 <br/>
 
-<h2>🔗 Connect with me:</h2>
+<h2>🔗 Connect With Me</h2>
 
 <p align="left">
 <a href = "https://www.linkedin.com/in/codewithpradip/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=sociale&logo=LinkedIn&labelColor=blue"/></a> <a href = "https://www.youtube.com/codewithpradip"><img src="https://img.shields.io/badge/YouTube-FF0000?style=sociale&logo=YouTube&labelColor=FF0000"/></a>
@@ -46,8 +52,3 @@
 
 <br/>
 
-<h2> ❤ Views and Followers</h2>
-<p>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=codewithpradip"></a>
-<a href="https://github.com/codewithpradip?tab=followers"><img src="https://img.shields.io/github/followers/codewithpradip?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
