@@ -4,8 +4,6 @@
 <p lign="center">I am a self taught programmer with a great passion in learning, exploring and development new thing. I also love to keep updated with latest technologies.<p
 
 <p lign="center">In the internet I am know by the name CodeWithPradip. I speak python and javascript primarily, but can communicate in c , c++, php too. I am strongly enthusiastic about Software Engineering and Data Science.<p
-    
-<p lign="center">Currently, I am studying computer engineering in kohalpur, Nepal. I am flexible and quick learner. I like share my knowledge, experience, & problems with solution I found that's why I'm into YouTube, where I have a channel Code With Pradip.<p
 
 
 ## 🙋‍♂️ About Me
@@ -23,29 +21,20 @@
 <br/>
 
 
-<h1 align="center">🚀 Languages and Tools:</h1>
+<h2>🚀 Languages and Tools:</h2>
 
-<p align="center">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
-    <a href="https://www.djangoproject.com/start/" target="_blank"> <img src="https://img.icons8.com/material-outlined/48/26e07f/django.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
-    <a href="https://www.php.net" target="_blank"> <img src="https://img.icons8.com/officexs/48/000000/php-logo.png"/> </a>
-    <a href="https://git-scm.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/docker.png"/> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/color/48/postgreesql.png"/> </a>
-    <a href="https://www.mysql.com" target="_blank"> <img src="https://img.icons8.com/office/48/react.png"/> </a>
-    
-    
 
-</p>
-
+| | |
+| -------- | -------- | 
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   |
+|  **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)|
+| **Backend** | ![Django](https://img.shields.io/badge/Django-0c4a32?style=for-the-badge&logo=Django&logoColor=white)![DRF](https://img.shields.io/badge/DRF-965353?style=for-the-badge&logo=Django&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)|
+| **Scraping & Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)![Scrapy](https://img.shields.io/badge/Scrapy-61a838?style=for-the-badge)![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-black?style=for-the-badge) |
+| **DevOps Tools**|![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)  | 
+| **Cloud**|![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)|
 <br/>
 
-<h1 align="center">Connect with me:</h1>
+<h2>Connect with me:</h2>
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/codewithpradip/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -56,7 +45,7 @@
 
 <br/>
 
-<h1 align="center"> ❤ Views and Followers</h1>
+<h2> ❤ Views and Followers</h2>
 <p align="center">
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=codewithpradip"></a>
 <a href="https://github.com/codewithpradip?tab=followers"><img src="https://img.shields.io/github/followers/codewithpradip?label=Followers&style=social" alt="GitHub Badge"></a>
