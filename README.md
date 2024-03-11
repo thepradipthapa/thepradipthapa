@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **My Own Project.**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Langchain**
 
 - 👯 I’m looking to Job on **Python Developer**
 
