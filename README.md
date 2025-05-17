@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/thepradipthapa" target="blank"><img src="https://img.shields.io/twitter/follow/codewithpradip?logo=twitter&style=for-the-badge" alt="codewithpradip" /></a></p>
 <p>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=thepradipthapa"></a> <a href="https://github.com/codewithpradip?tab=followers"><img src="https://img.shields.io/github/followers/codewithpradip?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=thepradipthapa"></a> <a href="https://github.com/thepradipthapa?tab=followers"><img src="https://img.shields.io/github/followers/thepradipthapa?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 <a href="https://www.buymeacoffee.com/codewithpradip"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=codewithpradip&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
