@@ -9,7 +9,7 @@
  <img width="400" height="auto" align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" height="175px"/>
 </a>
 
-<p align="left"> <a href="https://twitter.com/thepradipthapa" target="blank"><img src="https://img.shields.io/twitter/follow/codewithpradip?logo=twitter&style=for-the-badge" alt="codewithpradip" /></a></p>
+<p align="left"> <a href="https://twitter.com/thepradipthapa" target="blank"><img src="https://img.shields.io/twitter/follow/thepradipthapa?logo=twitter&style=for-the-badge" alt="thepradipthapa" /></a></p>
 <p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=thepradipthapa"></a> <a href="https://github.com/thepradipthapa?tab=followers"><img src="https://img.shields.io/github/followers/thepradipthapa?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
