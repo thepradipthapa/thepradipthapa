@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **My Own Project.**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning ** FAst API**
 
 - 👯 I’m looking to Job on **Backend Developer | Django Developer**
 
@@ -35,13 +35,14 @@
 
 | | |
 | -------- | -------- | 
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)   |
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
 |  **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)|
-| **Backend** | ![Django](https://img.shields.io/badge/Django-0c4a32?style=for-the-badge&logo=Django&logoColor=white)![DRF](https://img.shields.io/badge/DRF-965353?style=for-the-badge&logo=Django&logoColor=white)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)|
+| **Backend** | ![Django](https://img.shields.io/badge/Django-0c4a32?style=for-the-badge&logo=Django&logoColor=white)![DRF](https://img.shields.io/badge/DRF-965353?style=for-the-badge&logo=Django&logoColor=white)![Fast](https://img.shields.io/badge/Fast_API-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)|
 | **Scraping & Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-black?style=for-the-badge)![Scrapy](https://img.shields.io/badge/Scrapy-61a838?style=for-the-badge)|
 | **DevOps Tools**|![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)  | 
 | **Cloud**|![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)|
 <br/>
+
 
 <h2>🔗 Connect With Me</h2>
 
