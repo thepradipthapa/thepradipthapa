@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on **My Own Project.**
 
-- 🌱 I’m currently learning ** FAst API**
+- 🌱 I’m currently learning **Fast API**
 
 - 👯 I’m looking to Job on **Backend Developer | Django Developer**
 
