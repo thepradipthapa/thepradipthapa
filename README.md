@@ -13,15 +13,15 @@
 <p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=thepradipthapa"></a> <a href="https://github.com/thepradipthapa?tab=followers"><img src="https://img.shields.io/github/followers/thepradipthapa?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
-<a href="https://www.buymeacoffee.com/codewithpradip"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=codewithpradip&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<!-- <a href="https://www.buymeacoffee.com/codewithpradip"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Coffee&emoji=☕&slug=codewithpradip&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a> -->
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **My Own Project.**
+- 🔭 I’m currently working on **[Livechat](https://github.com/thepradipthapa/livechat)**
 
 - 🌱 I’m currently learning **Fast API**
 
-- 👯 I’m looking to Job on **Backend Developer | Django Developer**
+- 👯 I’m looking to Job on **Backend Developer | Software Engineer | Django Developer**
 
 - 📫 How to reach me **[hello@pradipthapa.net](https://gmail.com)**
 
@@ -47,7 +47,8 @@
 <h2>🔗 Connect With Me</h2>
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/thepradipthapa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&labelColor=blue"/></a> <a href = "https://www.youtube.com/codewithpradip"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&labelColor=FF0000"/></a>
-<a href = "https://www.instagram.com/codewithpradip/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F"/></a>
+<a href = "https://www.linkedin.com/in/thepradipthapa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&labelColor=blue"/></a> 
+<a href = "https://www.youtube.com/thepradipthapa"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&labelColor=FF0000"/></a>
+<a href = "https://www.instagram.com/_thepradipthapa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F"/></a>
 <a href = "https://twitter.com/thepradipthapa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2"/></a>
 </p>
