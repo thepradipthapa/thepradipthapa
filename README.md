@@ -21,7 +21,7 @@
 
 - 🌱 I’m currently learning **Fast API**
 
-- 👯 I’m looking to Job on **Backend Developer | Software Engineer | Django Developer**
+- 👯 I’m looking to Job on **Backend Developer | Django Developer**
 
 - 📫 How to reach me **[hello@pradipthapa.net](https://gmail.com)**
 
@@ -35,10 +35,10 @@
 
 | | |
 | -------- | -------- | 
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
+| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![SQL](https://img.shields.io/badge/SQL-%230D96F6?style=for-the-badge&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|
 |  **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)|
 | **Backend** | ![Django](https://img.shields.io/badge/Django-0c4a32?style=for-the-badge&logo=Django&logoColor=white)![DRF](https://img.shields.io/badge/DRF-965353?style=for-the-badge&logo=Django&logoColor=white)![Fast](https://img.shields.io/badge/Fast_API-%23009688?style=for-the-badge&logo=fastapi&logoColor=white)|
-| **Scraping & Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-black?style=for-the-badge)![Scrapy](https://img.shields.io/badge/Scrapy-61a838?style=for-the-badge)|
+| **Database** |![postgresql](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)![Redis](https://img.shields.io/badge/Redis-%23FF4438?style=for-the-badge&logo=redis&logoColor=white)|
 | **DevOps Tools**|![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)  | 
 | **Cloud**|![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white)|
 <br/>
@@ -52,3 +52,5 @@
 <a href = "https://www.instagram.com/_thepradipthapa/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=E4405F"/></a>
 <a href = "https://twitter.com/thepradipthapa"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white&labelColor=1DA1F2"/></a>
 </p>
+
+<!-- <p>| **Scraping & Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)![Beautiful Soup](https://img.shields.io/badge/Beautiful%20Soup-black?style=for-the-badge)![Scrapy](https://img.shields.io/badge/Scrapy-61a838?style=for-the-badge)|</p> -->
